@@ -1,4 +1,4 @@
-# KyotoUx-009x
+# KyotoUx-009x | STOCHASTIC PROCESSES: DATA ANALYSIS AND COMPUTER SIMULATION
 
 Here we provide with all necessary files to enrole "KyotoUx-009x: Stochastic Processes: Data Analysis and Computer Simulation".
 
